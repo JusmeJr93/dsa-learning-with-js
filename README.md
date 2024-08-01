@@ -14,6 +14,7 @@ The DSA Learning App is a web application designed to help beginners understand 
 
 ## Technologies Used
 
+- **Vite**: For the development of the app.
 - **React**: For building the user interface.
 - **Tailwind CSS**: For styling the application.
 - **JavaScript**: For implementing algorithms and exercises.
@@ -50,7 +51,7 @@ The DSA Learning App is a web application designed to help beginners understand 
 
 # Deployment
 
-The App is deployed on Vercel. Clic to try it: [DSA Learning App by Junior Jusmé](https://challenge-aluraflix-nine.vercel.app/)
+The App is deployed on Vercel. Clic to try it: [DSA Learning App by Junior Jusmé](https://dsa-learning-with-js.vercel.app/)
 
 # Contact
 
